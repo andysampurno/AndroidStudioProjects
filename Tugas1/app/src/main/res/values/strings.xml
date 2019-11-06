@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Tugas1</string>
+    <string name="Hello_World">Hello World!</string>
+    <string name="menu_setting">Setting</string>
+    <string name="nm">Nama:</string>
+    <string name="pwd">Password:</string>
+    <string name="btn">Login</string>
+</resources>

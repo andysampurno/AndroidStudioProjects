@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chaulina/ExMap/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/chaulina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e27d01679ef91e538f575e12652d40d5/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

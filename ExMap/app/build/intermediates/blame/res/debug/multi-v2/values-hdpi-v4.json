@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chaulina/ExMap/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/chaulina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e27d01679ef91e538f575e12652d40d5/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

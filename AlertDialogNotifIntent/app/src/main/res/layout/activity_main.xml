@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:paddingTop="10dp"
+    android:layout_gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nm"
+        android:id="@+id/nm"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nrp"
+        android:layout_below="@+id/nm"
+        />
+
+    <Button
+        android:id="@+id/btn_ad"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Alert Dialog"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/btn_ntf"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_ad"
+        android:layout_marginTop="50dp"
+        android:background="@color/colorPrimary"
+        android:text="Notifikasi"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/btn_int"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_ntf"
+        android:layout_marginTop="50dp"
+        android:background="@color/colorPrimary"
+        android:text="Intent"
+        android:textColor="#fff" />
+</RelativeLayout>
